@@ -1,10 +1,11 @@
-Welcome to your new dbt project!
+Welcome to my first dbt project
 
-### Using the starter project
+### My Goals: 
+- I wanted to get a better grasp on Data Warehousing
+- Create a basic ETL Pipeline
+- Get the rust off after a holiday break
 
-Try running the following commands:
-- dbt run
-- dbt test
+
 
 
 ### Resources:
